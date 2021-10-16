@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">assignment2__hangman-kyleliuxianqi</string>
+    <string name="app_name">Assignment2-LIU Xianqi 61551</string>
+    <string name="textview">Textview</string>
+    <string name="title">Hangman by LIU Xianqi 61551</string>
+    <string name="restart">Restart</string>
+    <string name="clue">Clue: %1$s</string>
+    <string name="default_lives">Lives left: 10</string>
+    <string name="count">Lives left: %1$d</string>
 </resources>
