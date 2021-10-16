@@ -2,9 +2,9 @@ Assignment2-Hangman
 by LIU Xianqi 61551
 
 1.About the words file and data preparation
-I got the inspiration from a real game 'Hangman' in Apple store.
-Then I put the word that I didn't find out into the 'words_and_clues.csv', which follow the format as [word,clue].
-Thus, I use a hashmap to store them, which make words as keys and make their clues as values.
+- I got the inspiration from a real game 'Hangman' in Apple store.
+- Then I put the word that I didn't find out into the 'words_and_clues.csv', which follow the format as [word,clue].
+- Thus, I use a hashmap to store them, which make words as keys and make their clues as values.
 
 2.Game begin
 - The number of '_' represents the length of the hidden word.
